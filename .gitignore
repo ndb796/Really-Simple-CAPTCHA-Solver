@@ -1,0 +1,5 @@
+extracted_letter_images
+captcha_model.hdf5
+model_labels.dat
+outputs
+__pycache__
