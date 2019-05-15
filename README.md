@@ -31,3 +31,4 @@ python3 solve_captchas_with_model.py
 
 ### References
 * https://github.com/BenjaminWegener/CaptchaSolver
+* https://medium.com/@ageitgey/how-to-break-a-captcha-system-in-15-minutes-with-machine-learning-dbebb035a710
